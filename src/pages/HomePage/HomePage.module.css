@@ -1,0 +1,15 @@
+.container {
+  text-align: center;
+  padding: 20px;
+}
+
+.formWrapper {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.loggedInMessage {
+  font-size: 18px;
+  font-weight: bold;
+  color: #4caf50;
+}
