@@ -1,0 +1,15 @@
+.link {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+  padding: 5px 10px;
+  transition: color 0.3s ease-in-out;
+}
+
+.link:hover {
+  color: #4caf50;
+}
+
+.link.active {
+  color: #4caf50;
+}
